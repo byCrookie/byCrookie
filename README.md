@@ -2,5 +2,5 @@
 
 I'm a software engineer, enthusiast for c# and .NET
 
-⚡ Just message me for collaboration
-📫 Reach me on twitter @ByCrookie
+* ⚡ Just message me for collaboration
+* 📫 Reach me on twitter @ByCrookie
