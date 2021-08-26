@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my workspace 👋
 
 I'm a software engineer, enthusiast for c# and .NET
 
-- 📫 How to reach me: Twitter @ByCrookie
+⚡ Just message me for collaboration
+📫 Reach me on twitter @ByCrookie
