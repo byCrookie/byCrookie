@@ -5,3 +5,5 @@ I'm a software engineer, newly inspiring rust dev, detours in typescript/tailwin
 * ⚡ Just message me for collaboration
 * 📫 Reach me on twitter @ByCrookie
 * 🔥 Visit my website [www.bycrookie.com](https://www.bycrookie.com)
+
+[![byCrookie's GitHub stats](https://github-readme-stats.vercel.app/api?username=byCrookie)](https://github.com/anuraghazra/github-readme-stats)
