@@ -3,7 +3,7 @@
 I'm a software engineer, enthusiast for c# and .NET
 
 * ⚡ Just message me for collaboration
-* 📫 Reach me on twitter @ByCrookie or at https://contact@bycrookie.com
+* 📫 Reach me on twitter @ByCrookie or at contact@bycrookie.com
 * 🔥 Visit my website [www.bycrookie.com](https://www.bycrookie.com)
 
 ![Stats](https://github-readme-stats.bycrookie.com?username=byCrookie&show_icons=true&theme=dark&include_all_commits=true)
