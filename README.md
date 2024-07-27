@@ -6,4 +6,4 @@ I'm a software engineer, enthusiast for c# and .NET
 * 📫 Reach me on twitter @ByCrookie or at contact@bycrookie.com
 * 🔥 Visit my website [www.bycrookie.com](https://www.bycrookie.com)
 
-![Stats](https://github-readme-stats.bycrookie.com/all)
+![Stats](https://github-stats.bycrookie.com/all)
