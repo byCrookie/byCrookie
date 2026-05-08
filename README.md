@@ -1,6 +1,8 @@
 ### Hey there! 👋 I'm byCrookie
 
-A **DevOps-focused software engineer** passionate about building reliable, scalable systems with **C#** and **.NET**. I live in the world of Linux, self-host my services, and love exploring new languages — especially **Rust** and **Go**.
+I'm a **DevOps**-focused developer building with **C#/.NET**.
+
+Linux, self-hosting, rootless containers, Podman, Fedora bootc, CI/CD — and experimenting with Rust and Go. 
 
 **Let’s connect:**
 
