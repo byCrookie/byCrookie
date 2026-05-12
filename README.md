@@ -9,4 +9,4 @@ Linux, self-hosting, rootless containers, Podman, Fedora bootc, CI/CD — and ex
 * Email me: [contact@bycrookie.com](mailto:contact@bycrookie.com)
 * Website: [www.bycrookie.com](https://www.bycrookie.com)
 
-![Stats](https://github-stats.bycrookie.com/all)
+![Stats](https://github-stats.bycrookie.com/combined?lang_count=40)
